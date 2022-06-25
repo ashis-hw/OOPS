@@ -1,1 +1,40 @@
+👉  Object oriented programming is a way to write our code. 
+
+👉  It's simplest way to write one function do everything inside this function what ever task your software 
+     supposed to do like taking input,doing some computation and giving some results you write everything in this one function, 
+
+👉  What is the problem with this approach?
+    see this approach is fine when we are writing a small piece of code,like a code, which is finding average of some numbers or doing some simple
+    mathematical computation But if our code evolvs we sould have many tasks which are repeated again and again,like finding maximum in an  array 
+    printing date,and many other things, sorting an array for that what we do is we make functions So, that if something is repeated again and again,
+    we write a function for this, and we call this function,whenever we need this functionality,this way of programming is called procedural programming.
+
+👉  What happens in procedural programming?
+    We have multiple functions call each other and our main function is typically a driver function This calls other functions and then these functions
+    might calls other functions,and this is how our procedural programming happens.
+
+👉  We can do procedural programming in java just i making one class writing one function main inside it and more function which main is supposed to call. 
+    But java ancourage is object oriented ptogramming in java its mandatory to write everything in the ckass that means the idea of object oriented programming
+    is recommended to have classes and write everything inside the class.
+
+👉  What are the problem with procedural programming?
+    If our software goes relatively bigger and it has multiple entities, which are talking to each other the functional programming may not be a good idea to do it.
+    Consider a situation where we are making a software for a college there are entities like student, courses, teachers. We read all the data from a file, or
+    a database. And how do we store it in memory? we will probably make an array of student data, make an array of teacher data, make an array of courses and
+    then whatever we want to do on this data,we will have to pass these areas averywhere which makes a code really,really complex.
+
+👉  Object oriented programming is a way to divide our requirements into multiple entities like we are talk about college software, we have a student entity,
+     we have a course entity,we have a faculty entity, we make classes of these entities, then we make object of these entities. So class is kind of datatype. 
+     A student is a class,for example. And if there is a student whose name is Ashis, Ashis is object of that class another student Ankan is an object of this class.
+
+👉  How class datatype is different from basic datatype
+
+
+👌  EXAMPLE:
+
+We have complex is an class and c1 is object of complex class
+
+
+
+
 
